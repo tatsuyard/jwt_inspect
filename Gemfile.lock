@@ -1,12 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    dotenv (2.7.6)
     jwt (2.2.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   jwt
 
 BUNDLED WITH
